@@ -1,0 +1,3 @@
+Le Telnet challenge  se déroule comme le FTP challenge précédent,
+juste il faut télécharger le fichier, l'ouvrir  sur Wireshark 
+puis l'analyser, "Suivre" et "Flux TCP".
