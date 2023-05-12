@@ -1,1 +1,10 @@
-En premier
+En premier, il faut se rendre sur le challenge FTP-authentification dans root me,
+puis sur le bouton "Démarrer challenge", on fait un click droite et copier son lien,
+puis ouvrir un nouvel onglet et mettre le lien dessus, il y a un telechargement qui 
+va commencer.
+
+Ensuite il faut ouvrir le fichier téléchargé sur Wireshark, puis cliquer sur "Analyser",
+ensuite "Suivre" et "Flux TCP" et ça va afficher le mot de passe du challenge.
+
+Remarque: mon Wireshark est en français, mais si le votre est en anglais juste il faut faire
+"Follow stream".
