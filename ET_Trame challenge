@@ -1,0 +1,9 @@
+Les démarches sont les suivants:
+- Cliquer sur le bouton "Démarrer Challenge" puis ça va afficher un code 
+Héxdecimal alors il faut selectionner le code Hex et le copier.
+-Puis aller se rendre sur un site qui convertit le code HEX en ASCII
+-Puis convertir le code HEX en ASCII
+-Ensuite apres avoir convertit le code en ASCII, il faut copier le code à côté
+de basic sur la ligne 'authorization',
+-Puis se rendre sur un site de decodage de base64 puis 
+-Décoder le code et ça affichera le mot de passe
