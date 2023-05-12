@@ -1,0 +1,7 @@
+Pour se faire, il faut:
+-Télécharger le fichier via le lien du bouton "Démarrer le challenge",
+-L'ouvrir sur Wireshark.
+-Analyser, puis suivre le flux HTTP puis copier le code à côté de basic 
+sur la ligne 'authorization',
+-Puis allez sur un site de decodage de base 64 puis,
+décoder le code et ça affichera le mdp du challenge
