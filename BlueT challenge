@@ -1,1 +1,7 @@
-
+En premier, il faut: 
+-Telecharger le fichier via le lien du bouton
+-Ouvrir sur wireshark
+-cliquer sur wireless et puis 'equipement bluetooth'.
+-ensuite copier l'adresse mac(ecrire en majuscule) et le nom du telephone
+-ensuite le convertir sur un https://www.sha1.fr
+-et ça va afficher le mdp pour le challenge
